@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import {HTMLContent} from '../components/Content'
+import Content, {HTMLContent} from '../components/Content'
 
 export const IndexPageTemplate = ({
   image,
@@ -12,7 +12,11 @@ export const IndexPageTemplate = ({
   film,
   leadership,
   about,
-}) => (
+  contentComponent
+}) => {
+  const PageContent = contentComponent || Content
+
+  return (
   <div className="container">
     <div
       className="background"
@@ -33,7 +37,7 @@ export const IndexPageTemplate = ({
     </div>
     
     <section className="film">
-      <HTMLContent content={film} />
+      <PageContent content={film} />
     </section>
     <section className="about">
       <h1>{about.title} <span>{about.subtitle}</span></h1>
@@ -52,6 +56,7 @@ export const IndexPageTemplate = ({
     
   </div>
 )
+}
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -70,6 +75,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
+        contentComponent={HTMLContent}
         image={frontmatter.image}
         title_image={frontmatter.title_image}
         title={frontmatter.title}
