@@ -1,0 +1,54 @@
+body,html {
+  margin: 0;
+  padding: 0;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  padding-left: 50%;
+  font-weight: 300;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  line-height: 1.4em;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Faustina', serif;
+  line-height: 1.2em;
+}
+
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 1.25em;
+}
+
+section {
+  padding: 50px 100px;
+  border-bottom: solid 1px #eee;
+}
+
+.background {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-size: cover;
+  &:before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #232323;
+    background-blend-mode: multiply;
+  }
+}
