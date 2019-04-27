@@ -31,9 +31,8 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Subheading, name: subheading, widget: string}
-          - {label: Film, name: film, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Description, name: description, widget: markdown}]}
+          - {label: "Film", name: "body", widget: "markdown"}
+          - {label: About, name: about, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Subtitle, name: subtitle, widget: string}, {label: Description, name: description, widget: markdown}]}
           - {label: Leadership, name: leadership, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Team, name: team, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Name, name: name, widget: text}, {label: Bio, name: bio, widget: text}]}]}
       - file: "src/pages/about/index.md"
         label: "About"

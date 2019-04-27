@@ -11,9 +11,7 @@ export const IndexPageTemplate = ({
   title_image,
   film,
   leadership,
-  heading,
-  subheading,
-  description,
+  about,
 }) => (
   <div className="container">
     <div
@@ -38,8 +36,8 @@ export const IndexPageTemplate = ({
       <HTMLContent content={film} />
     </section>
     <section className="about">
-      <h1>{heading} <span>{subheading}</span></h1>
-      <p>{description}</p>
+      <h1>{about.title} <span>{about.subtitle}</span></h1>
+      <p>{about.description}</p>
     </section>
     <section className="leadership">
       <h1>{leadership.heading}</h1>
@@ -59,10 +57,8 @@ IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title_image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
-  heading: PropTypes.string,
-  subheading: PropTypes.string,
   film: PropTypes.string,
-  description: PropTypes.string,
+  about: PropTypes.object,
   leadership: PropTypes.shape({
     team: PropTypes.array,
   }),
@@ -77,10 +73,8 @@ const IndexPage = ({ data }) => {
         image={frontmatter.image}
         title_image={frontmatter.title_image}
         title={frontmatter.title}
-        heading={frontmatter.heading}
-        subheading={frontmatter.subheading}
         film={html}
-        description={frontmatter.description}
+        about={frontmatter.about}
         leadership={frontmatter.leadership}
       />
     </Layout>
@@ -117,9 +111,11 @@ export const pageQuery = graphql`
             }
           }
         }
-        description
-        heading
-        subheading
+        about {
+          title
+          subtitle
+          description
+        }
         leadership {
           team {
             image {

@@ -3,10 +3,11 @@ templateKey: index-page
 title: Creed Productions
 image: /img/bg.png
 title_image: /img/title.png
-heading: About
-subheading: Innovate. Captivate. Transform. Epic Entertainment … Like Nothing You’ve Seen Before.
-description: >
-  Creed Productions is a creative media firm that develops major motion picture screenplays and related media. Its mission is to create innovative, original, and award-quality entertainment, at once lasting and meaningful, bold and captivating, powerful and transformative.
+about:
+  title: About
+  subtitle: Innovate. Captivate. Transform. Epic Entertainment … Like Nothing You’ve Seen Before.
+  description: >
+    Creed Productions is a creative media firm that develops major motion picture screenplays and related media. Its mission is to create innovative, original, and award-quality entertainment, at once lasting and meaningful, bold and captivating, powerful and transformative.
 leadership:
   team:
     - image: /img/coffee.png
@@ -37,8 +38,6 @@ leadership:
   heading: Leadership
   description: >
     A collaborative, big-thinking, and bold team, dedicated to innovating and elevating your entertainment.
-
-
 
 ---
 
