@@ -1,70 +1,55 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
-mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
-intro:
-  blurbs:
+title: Creed Productions
+image: /img/bg.png
+title_image: /img/title.png
+heading: About
+subheading: Innovate. Captivate. Transform. Epic Entertainment … Like Nothing You’ve Seen Before.
+description: >
+  Creed Productions is a creative media firm that develops major motion picture screenplays and related media. Its mission is to create innovative, original, and award-quality entertainment, at once lasting and meaningful, bold and captivating, powerful and transformative.
+leadership:
+  team:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      name: Ryan P. Callaghan
+      title: Founder | Chief Creative Officer
+      bio: >
+        Mr. Callaghan is a member of the Writers Guild of America and serves Creed Productions as the firm’s chief story and screenplay development lead. His primary area of responsibility involves development and production of original material designed to advance the firm’s primary mission.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      name: Steven J. Marbach
+      title: Founder | Chief Strategy Officer
+      bio: >
+        Mr. Marbach serves Creed Productions as the firm’s lead capture planning, opportunity identification, and initiatives strategist. His primary area of responsibility involves developing strategic initiatives, developing partnerships, and identifying media production opportunities, all to advance screenplays and related media toward production.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+      name: Brandon R. Vaughan
+      title: Founder | Chief Web and Technology Officer
+      bio: >
+        Mr. Vaughan serves Creed Productions as the firm’s lead website and technology specialist, and as a creative development partner. His primary area of responsibility involves applying the firm’s strategic and marketing programs to cutting-edge, forward-thinking web, messaging, visual media, and other technology platforms.
+    - image: /img/meeting-space.png
+      name: Pablo Gomez
+      title: Founder | Chief Marketing Officer
+      bio: >
+        Mr. Gomez serves Creed Productions as the firm’s lead marketing chief, and as a senior business developer. His primary area of responsibility involves research and planning to market Creed Productions and its related entertainment initiatives, working closely with other firm leadership to develop/lead a sharp marketing program.
+    - image: /img/meeting-space.png
+      name: Guy L. Amisano, Jr.
+      title: Founder | Senior Advisor and Partner
+      bio: >
+        Mr. Amisano holds a Juris Doctorate and serves Creed Productions as lead advisor to the firm’s leadership team. His primary area of responsibility involves research and document management for the firm and provision of business, financial, and other council to firm leadership.
+  heading: Leadership
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    A collaborative, big-thinking, and bold team, dedicated to innovating and elevating your entertainment.
+
+
+
 ---
+
+# Remnant
+
+The firm’s current project is a major motion picture screenplay entitled “War: The Remnant,” an original epic (and part 1 in a series) designed and built to captivate audiences with a story unlike any seen or told before.
+
+**Tag Line:** Begin a journey through war, hell, and death … to the meaning of life.
+
+**Genre:** War/Romance/Historical Fiction/Based on Ancient Text
+
+**Log Line:** Before the primeval flood, as the world descends deep into wickedness, a brilliant but broken warrior prince—guardian of an ancient and mysterious blessing—must overcome a crushing invasion and somehow outfox and outfight the enemy’s unnervingly lethal warlord, a man seemingly destined to annihilate him, his kingdom, the blessing, and the future it holds for mankind.
+
+**Pitch:** "Lord of the Rings" meets “Ben-Hur” meets “Braveheart” meets "300"

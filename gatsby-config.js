@@ -72,7 +72,7 @@ module.exports = {
       options: {
         fonts: [
           {
-            family: `Faustina`,
+            family: `Noto Serif`,
             variants: [`400`, `500`],
           },
           {

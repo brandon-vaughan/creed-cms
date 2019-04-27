@@ -1,19 +1,19 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
+import {HTMLContent} from '../components/Content'
 
 export const IndexPageTemplate = ({
   image,
   title,
+  title_image,
+  film,
+  leadership,
   heading,
   subheading,
-  mainpitch,
   description,
-  intro,
 }) => (
   <div className="container">
     <div
@@ -23,70 +23,45 @@ export const IndexPageTemplate = ({
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
       }}
-    />
-    <section className="about">
-      <h1>{title} <span>{subheading}</span></h1>
-      <h2>{mainpitch.title}</h2>
-      <p>{mainpitch.description}</p>
-    </section>
+    >
+      <div
+        className="title"
+        style={{
+          backgroundImage: `url(${
+            !!title_image.childImageSharp ? title_image.childImageSharp.fluid.src : title_image
+          })`,
+        }}
+      />
+    </div>
+    
     <section className="film">
+      <HTMLContent content={film} />
     </section>
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="section">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
-                  </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
-                </div>
-                <div className="columns">
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
-                  </div>
-                </div>
-                <Features gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
-                    </Link>
-                  </div>
-                </div>
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
-                  </h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Read more
-                    </Link>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+    <section className="about">
+      <h1>{heading} <span>{subheading}</span></h1>
+      <p>{description}</p>
+    </section>
+    <section className="leadership">
+      <h1>{leadership.heading}</h1>
+      <p>{leadership.description}</p>
+      {leadership.team.map(m => (
+        <div key={m.name}>
+          <h2>{m.name} <span>{m.title}</span></h2>
+          <p>{m.bio}</p>
         </div>
-      </div>
+      ))}
     </section>
+    
   </div>
 )
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  title_image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
-  film: PropTypes.object,
+  film: PropTypes.string,
   description: PropTypes.string,
   leadership: PropTypes.shape({
     team: PropTypes.array,
@@ -94,16 +69,17 @@ IndexPageTemplate.propTypes = {
 }
 
 const IndexPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark
+  const { frontmatter, html } = data.markdownRemark
 
   return (
     <Layout>
       <IndexPageTemplate
         image={frontmatter.image}
+        title_image={frontmatter.title_image}
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
-        film={frontmatter.film}
+        film={html}
         description={frontmatter.description}
         leadership={frontmatter.leadership}
       />
@@ -124,8 +100,16 @@ export default IndexPage
 export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
+      html
       frontmatter {
         title
+        title_image {
+          childImageSharp {
+            fluid(maxWidth: 2048, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         image {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
@@ -133,11 +117,9 @@ export const pageQuery = graphql`
             }
           }
         }
-        film {
-          title
-          description
-        }
         description
+        heading
+        subheading
         leadership {
           team {
             image {
@@ -148,6 +130,7 @@ export const pageQuery = graphql`
               }
             }
             name
+            title
             bio
           }
           heading
