@@ -59,15 +59,12 @@ leadership:
       image: /img/meeting-space.png
       name: 'Guy L. Amisano, Jr.'
 ---
-
 # Remnant
 
-The firm’s current project is a major motion picture screenplay entitled “War: The Remnant,” an original epic (and part 1 in a series) designed and built to captivate audiences with a story unlike any seen or told before.
+The firm’s current project is a major motion picture screenplay entitled “Remnant,” an original epic (and part 1 in a series) designed and built to captivate audiences with a story unlike any seen or told before.
 
-**Tag Line:** Begin a journey through war, hell, and death … to the meaning of life.
+**Genre:** War/Romance/Historical Fiction/Based on Ancient Hebrew Text
 
-**Genre:** War/Romance/Historical Fiction/Based on Ancient Text
+**Log Line:** An orphan receives from a doomed prince an ancient and mysterious locket (the “ark”), the content of which is hunted by evil spirits and evil men, renders the orphan heir to the prince’s kingdom, and holds the fate of all humanity in the balance. 
 
-**Log Line:** Before the primeval flood, as the world descends deep into wickedness, a brilliant but broken warrior prince—guardian of an ancient and mysterious blessing—must overcome a crushing invasion and somehow outfox and outfight the enemy’s unnervingly lethal warlord, a man seemingly destined to annihilate him, his kingdom, the blessing, and the future it holds for mankind.
-
-**Pitch:** "Lord of the Rings" meets “Ben-Hur” meets “Braveheart” meets "300"
+**Pitch:** "Lord of the Rings" meets “Ben-Hur” meets “The Iliad"
