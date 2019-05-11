@@ -14,57 +14,57 @@ about:
     Seen Before.
   title: About
 leadership:
-  description: >
+  description: >-
     A collaborative, big-thinking, and bold team, dedicated to innovating and
     elevating your entertainment.
   heading: Leadership
   team:
-    - bio: >
+    - bio: >-
         Mr. Callaghan is a member of the Writers Guild of America and serves
-        Creed Productions as the firm’s chief creative, story, and screenplay
-        development lead. His primary area of responsibility involves
+        Creed Productions as the firm’s chief creative, content, and screenplay
+        development lead. His primary area of responsibility involves the
         development and production of original material designed to advance the
         firm’s primary mission.
       image: /img/coffee.png
       name: Ryan P. Callaghan
-    - bio: >
+    - bio: >-
         Mr. Marbach serves Creed Productions as the firm’s lead capture
         planning, business development, and initiatives strategist. His primary
         area of responsibility involves developing partnerships, developing and
         implementing strategic initiatives, and identifying media production
-        opportunities, all to advance the firm's mission.
+        opportunities.
       image: /img/coffee-gear.png
       name: Steven J. Marbach
     - bio: >
         Mr. Vaughan serves Creed Productions as the firm’s lead web development
-        and information technology specialist, and as a creative development
-        partner. His primary area of responsibility involves applying the firm’s
-        initiatives and projects to cutting-edge, forward-thinking web,
-        messaging, visual media, and other technology platforms.
+        and information technology specialist. His primary area of
+        responsibility involves applying the firm’s strategic and marketing
+        programs to cutting-edge, forward-thinking web, messaging, visual media,
+        and other technology platforms.
       image: /img/meeting-space.png
       name: Brandon R. Vaughan
-    - bio: >
-        Mr. Gomez serves Creed Productions as the firm’s lead marketing
-        specialist and as a business development partner. His primary area of
-        responsibility involves research and planning to market Creed
-        Productions and its related entertainment initiatives.
+    - bio: >-
+        Mr. Gomez serves Creed Productions as the firm’s lead marketer and as a
+        senior business developer. His primary area of responsibility involves
+        research and planning to market Creed Productions and its related
+        entertainment initiatives.
       image: /img/meeting-space.png
       name: Pablo Gomez
-    - bio: >
+    - bio: >-
         Mr. Amisano holds a Juris Doctorate and serves Creed Productions as
-        chief advisor to the firm’s leadership team. His primary area of
-        responsibility involves research and document management as well as
+        senior advisor to the firm’s leadership team. His primary area of
+        responsibility involves research and document management as well as the
         provision of business, financial, and other counsel to Creed Productions
         leadership.
       image: /img/meeting-space.png
       name: 'Guy L. Amisano, Jr.'
 ---
-# Remnant
+# The "Remnant" Multi-Film Universe
 
-The firm’s current project is a major motion picture screenplay entitled “Remnant,” an original epic (and part 1 in a series) designed and built to captivate audiences with a story unlike any seen or told before.
+**Film 1 Title:** “Remnant”
 
-**Genre:** War/Romance/Historical Fiction/Based on Ancient Hebrew Text
+**Genre:** War/Epic/Romance/Historical Fiction/Based on Ancient Hebrew Text
 
-**Log Line:** An orphan receives from a doomed prince an ancient and mysterious locket (the “ark”), the content of which is hunted by evil spirits and evil men, renders the orphan heir to the prince’s kingdom, and holds the fate of all humanity in the balance. 
+**Logline:** An orphan receives from a doomed prince an ancient and mysterious locket (the “ark”), the content of which is hunted by evil spirits and evil men, renders the orphan heir to the prince’s kingdom, and holds the fate of all humanity in the balance.
 
-**Pitch:** "Lord of the Rings" meets “Ben-Hur” meets “The Iliad"
+**Pitch:** "Lord of the Rings" meets “Ben-Hur” meets “The Iliad”
