@@ -27,7 +27,7 @@ leadership:
         firm’s primary mission.
       image: /img/coffee.png
       name: Ryan P. Callaghan
-      title: 
+      title: test
     - bio: >-
         Mr. Marbach serves Creed Productions as the firm’s lead capture
         planning, business development, and initiatives strategist. His primary
@@ -36,7 +36,7 @@ leadership:
         opportunities.
       image: /img/coffee-gear.png
       name: Steven J. Marbach
-      title: 
+      title: test
     - bio: >
         Mr. Vaughan serves Creed Productions as the firm’s lead web development
         and information technology specialist. His primary area of
@@ -45,7 +45,7 @@ leadership:
         and other technology platforms.
       image: /img/meeting-space.png
       name: Brandon R. Vaughan
-      title: 
+      title: test
     - bio: >-
         Mr. Gomez serves Creed Productions as the firm’s lead marketer and as a
         senior business developer. His primary area of responsibility involves
@@ -53,7 +53,7 @@ leadership:
         entertainment initiatives.
       image: /img/meeting-space.png
       name: Pablo Gomez
-      title: 
+      title: test
     - bio: >-
         Mr. Amisano holds a Juris Doctorate and serves Creed Productions as
         senior advisor to the firm’s leadership team. His primary area of
@@ -62,7 +62,7 @@ leadership:
         leadership.
       image: /img/meeting-space.png
       name: 'Guy L. Amisano, Jr.'
-      title: 
+      title: test
 ---
 # Current Projects
 
