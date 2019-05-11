@@ -59,7 +59,9 @@ leadership:
       image: /img/meeting-space.png
       name: 'Guy L. Amisano, Jr.'
 ---
-# The "Remnant" Multi-Film Universe
+# Current Projects
+
+**_The "Remnant" Multi-Film Universe_**
 
 **Film 1 Title:** “Remnant”
 
