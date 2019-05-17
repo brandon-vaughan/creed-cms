@@ -16,7 +16,7 @@ about:
 leadership:
   description: >-
     A collaborative, big-thinking, and bold team, dedicated to innovating and
-    elevating media.
+    elevating your media.
   heading: Leadership
   team:
     - bio: >-
