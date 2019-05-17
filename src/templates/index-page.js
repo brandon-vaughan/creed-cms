@@ -36,12 +36,12 @@ export const IndexPageTemplate = ({
       />
     </div>
     
-    <section className="film">
-      <PageContent content={film} />
-    </section>
     <section className="about">
       <h1>{about.title} <span>{about.subtitle}</span></h1>
       <p>{about.description}</p>
+    </section>
+    <section className="film">
+      <PageContent content={film} />
     </section>
     <section className="leadership">
       <h1>{leadership.heading}</h1>
