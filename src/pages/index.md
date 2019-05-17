@@ -16,57 +16,65 @@ about:
 leadership:
   description: >-
     A collaborative, big-thinking, and bold team, dedicated to innovating and
-    elevating your entertainment.
+    elevating media.
   heading: Leadership
   team:
     - bio: >-
-        Mr. Callaghan is a member of the Writers Guild of America and serves
-        Creed Productions as the firm’s chief creative, content, and screenplay
-        development lead. His primary area of responsibility involves the
-        development and production of original material designed to advance the
-        firm’s primary mission.
+        An accomplished creative content developer, whose material has helped
+        generate hundreds of millions of dollars in opportunities captured since
+        2005, as well as an experienced screenplay and story developer (since
+        2004), Mr. Callaghan serves Creed Productions as the chief creative,
+        content, and screenplay development lead. His primary responsibility
+        involves the development of original media ideas and material designed
+        to advance the firm’s mission.
       image: /img/coffee.png
       name: Ryan P. Callaghan
       title: Chief Creative Officer
     - bio: >-
-        Mr. Marbach serves Creed Productions as the firm’s lead capture
-        planning, business development, and initiatives strategist. His primary
-        area of responsibility involves developing partnerships, developing and
+        A business development specialist, directly responsible for millions of
+        dollars in new opportunities over the past ten-plus years, Mr. Marbach
+        serves Creed Productions as the firm’s capture planning, business
+        strategy, and initiatives implementation lead. His primary
+        responsibilities involve developing outside partnerships, developing and
         implementing strategic initiatives, and identifying media production
         opportunities.
       image: /img/coffee-gear.png
       name: Steven J. Marbach
       title: Chief Strategy Officer
     - bio: >
-        Mr. Vaughan serves Creed Productions as the firm’s lead web development
-        and information technology specialist. His primary area of
-        responsibility involves applying the firm’s strategic and marketing
-        programs to cutting-edge, forward-thinking web, messaging, visual media,
-        and other technology platforms.
+        Possessing over a decade of specialized experience, including part
+        ownership of a successful and recently-sold web development firm, Mr.
+        Vaughan serves Creed Productions as the firm’s lead web developer and
+        information technology specialist. His primary responsibility involves
+        applying the firm’s initiatives and projects to cutting-edge,
+        forward-thinking web, messaging, visual media, and other technology
+        platforms.
       image: /img/meeting-space.png
       name: Brandon R. Vaughan
       title: Chief Technology Officer
     - bio: >-
-        Mr. Gomez serves Creed Productions as the firm’s lead marketer and as a
-        senior business developer. His primary area of responsibility involves
-        research and planning to market Creed Productions and its related
-        entertainment initiatives.
+        With over 15 years of senior-level corporate financial and marketing
+        management experience, including years as Chief Financial Officer and
+        Chief Marketing Officer, Mr. Gomez serves Creed Productions as the
+        firm’s lead marketer and financial planner. His primary responsibilities
+        involve research and planning to market Creed Productions and its
+        related entertainment initiatives.
       image: /img/meeting-space.png
       name: Pablo Gomez
-      title: Chief Marketing Officer
+      title: Chief Marketing and Financial Officer
     - bio: >-
-        Mr. Amisano holds a Juris Doctorate and serves Creed Productions as
-        senior advisor to the firm’s leadership team. His primary area of
-        responsibility involves research and document management as well as the
-        provision of business, financial, and other counsel to Creed Productions
-        leadership.
+        Mr. Amisano holds a Juris Doctorate and has over ten years of experience
+        as a senior-level corporate General Counsel. A trusted partner, he
+        serves Creed Productions as senior advisor to the firm’s leadership
+        team; his primary responsibilities involve research and document
+        management as well as provision of business-related counsel.
       image: /img/meeting-space.png
       name: 'Guy L. Amisano, Jr.'
       title: Senior Advisor and Partner
 ---
 # Current Projects
 
-**_The "Remnant" Multi-Film Universe_**
+_**The "Remnant" Multi-Film Universe**_
 
 **Film 1 Title:** “Remnant”
 
@@ -75,3 +83,5 @@ leadership:
 **Logline:** An orphan receives from a doomed prince an ancient and mysterious locket (the “ark”), the content of which is hunted by evil spirits and evil men, renders the orphan heir to the prince’s kingdom, and holds the fate of all humanity in the balance.
 
 **Pitch:** "Lord of the Rings" meets “Ben-Hur” meets “The Iliad”
+
+**Outside Film Producer Attached to the Project:** Yes
