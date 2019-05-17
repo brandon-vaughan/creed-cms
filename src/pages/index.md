@@ -20,10 +20,9 @@ leadership:
   heading: Leadership
   team:
     - bio: >-
-        An accomplished creative content developer, whose material has helped
+        An accomplished creative content architect, whose material has helped
         generate hundreds of millions of dollars in opportunities captured since
-        2005, as well as an experienced screenplay and story developer (since
-        2004), Mr. Callaghan serves Creed Productions as the chief creative,
+        2005, Mr. Callaghan serves Creed Productions as the chief creative,
         content, and screenplay development lead. His primary responsibility
         involves the development of original media ideas and material designed
         to advance the firm’s mission.
@@ -31,13 +30,13 @@ leadership:
       name: Ryan P. Callaghan
       title: Chief Creative Officer
     - bio: >-
-        A business development specialist, directly responsible for millions of
-        dollars in new opportunities over the past ten-plus years, Mr. Marbach
-        serves Creed Productions as the firm’s capture planning, business
-        strategy, and initiatives implementation lead. His primary
-        responsibilities involve developing outside partnerships, developing and
-        implementing strategic initiatives, and identifying media production
-        opportunities.
+        A business development and networking specialist, directly responsible
+        for millions of dollars in new opportunities identified and acquired
+        over the past ten-plus years, Mr. Marbach serves Creed Productions as
+        the firm’s lead capture planner and initiatives implementation
+        strategist. His primary responsibilities involve developing outside
+        partnerships, developing and implementing strategic initiatives, and
+        identifying media production opportunities.
       image: /img/coffee-gear.png
       name: Steven J. Marbach
       title: Chief Strategy Officer
@@ -46,22 +45,21 @@ leadership:
         ownership of a successful and recently-sold web development firm, Mr.
         Vaughan serves Creed Productions as the firm’s lead web developer and
         information technology specialist. His primary responsibility involves
-        applying the firm’s initiatives and projects to cutting-edge,
-        forward-thinking web, messaging, visual media, and other technology
-        platforms.
+        applying the firm and its work to cutting-edge and forward-thinking web,
+        messaging, visual media, and other technology platforms.
       image: /img/meeting-space.png
       name: Brandon R. Vaughan
       title: Chief Technology Officer
     - bio: >-
-        With over 15 years of senior-level corporate financial and marketing
-        management experience, including years as Chief Financial Officer and
-        Chief Marketing Officer, Mr. Gomez serves Creed Productions as the
-        firm’s lead marketer and financial planner. His primary responsibilities
-        involve research and planning to market Creed Productions and its
-        related entertainment initiatives.
+        A marketing, research, and business growth expert with over 15 years of
+        specialized corporate experience, including a senior-level role in the
+        rapid growth and profitable sale of a multi-million-dollar firm, Mr.
+        Gomez serves Creed Productions as its lead marketing specialist and
+        director. His primary responsibilities involve research and planning to
+        promote Creed Productions and its related entertainment initiatives.
       image: /img/meeting-space.png
       name: Pablo Gomez
-      title: Chief Marketing and Financial Officer
+      title: Chief Marketing Officer
     - bio: >-
         Mr. Amisano holds a Juris Doctorate and has over ten years of experience
         as a senior-level corporate General Counsel. A trusted partner, he
