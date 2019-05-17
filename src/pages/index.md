@@ -30,10 +30,10 @@ leadership:
       name: Ryan P. Callaghan
       title: Chief Creative Officer
     - bio: >-
-        A business development and networking specialist, directly responsible
-        for millions of dollars in new opportunities identified and acquired
-        over the past ten-plus years, Mr. Marbach serves Creed Productions as
-        the firm’s lead capture planner and initiatives implementation
+        A business development, team building, and networking specialist,
+        directly responsible for millions of dollars in new opportunities
+        identified and acquired over the past decade and more, Mr. Marbach
+        serves Creed Productions as the firm’s lead capture planner and business
         strategist. His primary responsibilities involve developing outside
         partnerships, developing and implementing strategic initiatives, and
         identifying media production opportunities.
@@ -54,18 +54,18 @@ leadership:
         A marketing, research, and business growth expert with over 15 years of
         specialized corporate experience, including a senior-level role in the
         rapid growth and profitable sale of a multi-million-dollar firm, Mr.
-        Gomez serves Creed Productions as its lead marketing specialist and
-        director. His primary responsibilities involve research and planning to
-        promote Creed Productions and its related entertainment initiatives.
+        Gomez serves Creed Productions as its lead marketer. His primary
+        responsibilities involve research and planning to promote Creed
+        Productions and its related entertainment initiatives.
       image: /img/meeting-space.png
       name: Pablo Gomez
       title: Chief Marketing Officer
     - bio: >-
         Mr. Amisano holds a Juris Doctorate and has over ten years of experience
-        as a senior-level corporate General Counsel. A trusted partner, he
-        serves Creed Productions as senior advisor to the firm’s leadership
-        team; his primary responsibilities involve research and document
-        management as well as provision of business-related counsel.
+        as a lead corporate General Counsel. A trusted partner, he serves Creed
+        Productions as senior advisor to the firm’s leadership team; his primary
+        responsibilities involve research and document management as well as
+        provision of business-related counsel.
       image: /img/meeting-space.png
       name: 'Guy L. Amisano, Jr.'
       title: Senior Advisor and Partner
