@@ -9,9 +9,7 @@ about:
     picture screenplays and related entertainment. Its mission is to create
     innovative, original, and award-quality media, at once lasting and
     meaningful, bold and riveting, powerful and transformative.
-  subtitle: >-
-    Innovate. Captivate. Transform. Epic Entertainment … Like Nothing You’ve
-    Seen Before.
+  subtitle: Epic Entertainment … Like Nothing You’ve Seen Before.
   title: About
 leadership:
   description: >-
