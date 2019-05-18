@@ -8,7 +8,7 @@ about:
     Creed Productions is a creative media firm that develops major motion
     picture screenplays and related entertainment. Its mission is to create
     innovative, original, and award-quality media, at once lasting and
-    meaningful, bold and captivating, powerful and transformative.
+    meaningful, bold and riveting, powerful and transformative.
   subtitle: >-
     Innovate. Captivate. Transform. Epic Entertainment … Like Nothing You’ve
     Seen Before.
@@ -23,8 +23,8 @@ leadership:
         An accomplished writer and content architect, whose material has helped
         generate hundreds of millions of dollars in opportunities captured since
         2005, Mr. Callaghan serves Creed Productions as creative lead. His
-        primary responsibility involves the development of innovative,
-        captivating ideas and material designed to advance the firm’s mission.
+        primary responsibility involves the development of original, bold, and
+        enthralling ideas and material designed to advance the firm’s mission.
       image: /img/coffee.png
       name: Ryan P. Callaghan
       title: Chief Creative Officer
