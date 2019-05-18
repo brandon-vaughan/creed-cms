@@ -29,10 +29,10 @@ leadership:
     - bio: >-
         A business development, team building, and networking specialist,
         responsible for millions of dollars in opportunities captured over the
-        past decade, Mr. Marbach serves Creed Productions as the firm’s lead
-        capture planner and business strategist. His primary responsibilities
-        involve developing outside partnerships, implementing strategic
-        initiatives, and identifying media production opportunities.
+        past decade, Mr. Marbach serves Creed Productions as lead capture
+        planner and business strategist. His primary responsibilities involve
+        developing outside partnerships, implementing strategic initiatives, and
+        identifying media production opportunities.
       image: /img/coffee-gear.png
       name: Steven J. Marbach
       title: Chief Strategy Officer
