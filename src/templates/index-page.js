@@ -15,6 +15,7 @@ export const IndexPageTemplate = ({
   contentComponent
 }) => {
   const PageContent = contentComponent || Content
+  const currentYear = new Date().getFullYear();
 
   return (
   <div className="container">
@@ -53,7 +54,9 @@ export const IndexPageTemplate = ({
         </div>
       ))}
     </section>
-    
+    <footer>
+      <p>&copy; {currentYear} Creed Productions</p>
+    </footer>
   </div>
 )
 }
