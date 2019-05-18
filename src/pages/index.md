@@ -48,11 +48,11 @@ leadership:
       name: Pablo I. Gomez
       title: Chief Marketing Officer
     - bio: >
-        Possessing over a decade of specialized experience, including part
-        ownership of a successful and recently-sold web development firm, Mr.
-        Vaughan serves Creed Productions as the firm’s lead web developer and
-        information technology specialist. His primary responsibility involves
-        applying Creed Productions and its projects to cutting-edge and
+        Possessing over a decade of specialized web development experience,
+        including part ownership of a successful and recently-sold enterprise,
+        Mr. Vaughan serves Creed Productions as the firm’s lead web developer
+        and information technology specialist. His primary responsibility
+        involves applying Creed Productions and its projects to cutting-edge and
         forward-thinking web, messaging, visual media, and other technology
         platforms.
       image: /img/meeting-space.png
