@@ -61,7 +61,7 @@ leadership:
     - bio: >-
         Mr. Amisano holds a Juris Doctorate and has over ten years of experience
         as a lead corporate General Counsel. A trusted partner, he serves Creed
-        Productions as senior advisor to the firm’s leadership team; his primary
+        Productions as senior advisor to the firm’s leadership team. His primary
         responsibilities involve research and document management as well as
         provision of business-related counsel.
       image: /img/meeting-space.png
