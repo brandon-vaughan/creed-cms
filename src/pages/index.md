@@ -74,6 +74,8 @@ leadership:
 
 **Genre:** War/Epic/Romance/Historical Fiction/Based on Ancient Hebrew Text
 
+Part of a Joint Venture Entitled Remnant Films, LLC
+
 **Logline:** An orphan receives from a doomed prince an ancient and mysterious locket (the “ark”), the content of which is hunted by evil spirits and evil men, renders the orphan heir to the prince’s kingdom, and holds the fate of all humanity in the balance.
 
 **Pitch:** "Lord of the Rings" meets “Ben-Hur” meets “The Iliad”
